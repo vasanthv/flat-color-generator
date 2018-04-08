@@ -1,0 +1,27 @@
+{
+  "name": "flat-color-generator",
+  "version": "1.0.0",
+  "description": "FLat color generator based on Mariam Maarouf's flat-color-generator. https://github.com/mariamrf/flat-color-generator",
+  "main": "flatcolor.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasanthv/flat-color-generator.git"
+  },
+  "keywords": [
+    "flat",
+    "color",
+    "generator",
+    "javascript",
+    "css",
+    "color"
+  ],
+  "author": "Vasanth V <vasanthv@mail.com> (https://twitter.com/vsnthv)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasanthv/flat-color-generator/issues"
+  },
+  "homepage": "https://github.com/vasanthv/flat-color-generator#readme"
+}
